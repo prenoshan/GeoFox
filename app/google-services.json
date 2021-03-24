@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "701355581683",
+    "firebase_url": "https://geofox-80b5a.firebaseio.com",
+    "project_id": "geofox-80b5a",
+    "storage_bucket": "geofox-80b5a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:701355581683:android:1284d26a3b3e4d03119786",
+        "android_client_info": {
+          "package_name": "com.example.geofox"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "701355581683-noohatt01trfhemuq0hnta61en16ce8a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2fq6U57Bs34ofWjC92P4C_PNl-H-yji4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "701355581683-noohatt01trfhemuq0hnta61en16ce8a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
